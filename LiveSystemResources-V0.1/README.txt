@@ -1,2 +1,0 @@
-To run LiveSystemResources just open the executable. 
-KEEP IN MIND: You might encounter issues and possibly apllication crashes due to the GPU reading not easy to do, so don't be suprised if you get a warning message when starting.
